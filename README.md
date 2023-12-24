@@ -128,8 +128,8 @@ T Flipflop
 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Deepak-R
+RegisterNumber: 23000154
 */
 
 ### RTL realisation
