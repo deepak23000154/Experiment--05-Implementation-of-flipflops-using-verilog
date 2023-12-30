@@ -1,4 +1,7 @@
+# Name:DEEPAK.R
+# Ref no:23000154
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
+
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
